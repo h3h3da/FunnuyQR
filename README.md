@@ -1,5 +1,5 @@
 # FunnuyQR
-基于qrcode(https://github.com/h3h3da/qrcode) 开发的本地二维码生成小应用。
+基于[qrcode](https://github.com/h3h3da/qrcode) 开发的本地二维码生成小应用。
 
 ## 作用
 
@@ -13,9 +13,9 @@
 
 ### pip 3
 
-### (qrcode)[https://github.com/h3h3da/qrcode]
+### [qrcode](https://github.com/h3h3da/qrcode)
 
-tips:具体可参考(qrcode)[https://github.com/h3h3da/qrcode] 的安装要求。
+tips:具体可参考[qrcode](https://github.com/h3h3da/qrcode) 的安装要求。
 
 ## 界面
 
