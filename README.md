@@ -1,5 +1,5 @@
 # FunnuyQR
-基于[qrcode](https://github.com/h3h3da/qrcode) 开发的本地二维码生成小应用。
+基于[qrcode](https://github.com/h3h3da/qrcode) 开发的本地二维码生成Windows小应用。
 
 ## 作用
 
