@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\bin\Debug\FunnyQR.exe.config
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\bin\Debug\FunnyQR.exe
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\bin\Debug\FunnyQR.pdb
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\obj\Debug\FunnyQR.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\obj\Debug\FunnyQR.Form1.resources
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\obj\Debug\FunnyQR.Properties.Resources.resources
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\obj\Debug\FunnyQR.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\obj\Debug\FunnyQR.exe
+C:\Users\lenovo\Desktop\myqr\MyQR\FunnyQR\FunnyQR\obj\Debug\FunnyQR.pdb
