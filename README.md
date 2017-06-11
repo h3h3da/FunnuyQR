@@ -11,7 +11,7 @@
 
 ### 2.Python 3
 
-### pip 3
+### 3.pip 3
 
 ### [qrcode](https://github.com/h3h3da/qrcode)
 
